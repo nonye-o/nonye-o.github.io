@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "Nonye O."
+author: "Nonye O."
+description: ""
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -22,7 +22,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
+  - {title: Mail, icon: envelope, url: "mailto:chukwunonyelumokoma@outlook.com"}
   - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
