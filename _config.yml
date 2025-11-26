@@ -23,8 +23,8 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:chukwunonyelumokoma@outlook.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Github, icon: github, url: "https://github.com/nonye-o.github.io"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/nonye-o-3112b6324/"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
