@@ -20,7 +20,7 @@ show_minimal: false             # remove all clutter
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "projects.md", sidebaricon: home}
   - {file: "README.md", sidebaricon: address-card}
-  - {file: "cv_page.md"}
+  - {file: "cv_page.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:chukwunonyelumokoma@outlook.com"}
