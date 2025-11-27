@@ -1,14 +1,5 @@
 ---
-layout: page
-title: My Professional CV
-permalink: /view-cv/
+layout: null
+permalink: /cv/
+redirect_to: /Gregory_Okoma_CV_PhD.pdf
 ---
-
-## View My CV Online
-
-<embed 
-    src="/Gregory_Okoma_CV_PhD.pdf" 
-    type="application/pdf" 
-    width="100%" 
-    height="1000px" 
-/>
