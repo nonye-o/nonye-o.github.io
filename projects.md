@@ -2,5 +2,4 @@
 title: "Projects"
 layout: page
 ---
-# Projects
-Blah
+Add projects here.
