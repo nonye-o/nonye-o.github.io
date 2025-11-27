@@ -17,10 +17,6 @@ show_minimal: false             # remove all clutter
 
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
-header_pages:
-  - projects.md
-  - Gregory_Okoma_CV_PhD.pdf # You can link to PDFs or other files if you use the raw path
-
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "projects.md", sidebaricon: home}
   - {file: "README.md", sidebaricon: address-card}
