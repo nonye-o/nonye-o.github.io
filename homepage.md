@@ -7,5 +7,9 @@ layout: default
 # Projects
 Blah
 
+## Skills
+- Python
+- 
+
 # Contact
 My email is chukwunonyelumokoma@outlook.com.
