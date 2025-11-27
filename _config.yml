@@ -24,9 +24,7 @@ header_pages:
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "projects.md", sidebaricon: home}
   - {file: "README.md", sidebaricon: address-card}
-  - {file: "Gregory_Okoma_CV_PhD.pdf", sidebaricon: address-card}
-  - {file: "README.md", sidebaricon: address-card}
-  - {file: "README.md", sidebaricon: address-card}
+  - {file: "Gregory_Okoma_CV_PhD.pdf"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:chukwunonyelumokoma@outlook.com"}
