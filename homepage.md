@@ -1,9 +1,7 @@
 ---
-title: "About"
+title: "Home"
 layout: page
 ---
-# About
-
 # Projects
 Blah
 
