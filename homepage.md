@@ -7,9 +7,14 @@ layout: default
 # Projects
 Blah
 
-## Skills
+# Additional Info
 - Python
-- 
+- Pytorch
+- Tensorflow
+- NumPy
+- Pandas
+- R
+- Pine Script
 
 # Contact
 My email is chukwunonyelumokoma@outlook.com.
