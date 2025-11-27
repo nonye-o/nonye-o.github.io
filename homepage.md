@@ -1,13 +1,11 @@
 ---
-title: "Home"
+title: "About"
 layout: default
 ---
 # About
+
+# Projects
 Blah
 
-# Papers
-- Blah1
-- Blah2
-
 # Contact
-Glah?
+My email is chukwunonyelumokoma@outlook.com.
