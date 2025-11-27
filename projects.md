@@ -2,4 +2,4 @@
 title: "Projects"
 layout: page
 ---
-Add projects here.
+This is a markdown file. Add projects here.
