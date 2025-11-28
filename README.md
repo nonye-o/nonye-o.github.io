@@ -11,7 +11,7 @@ The MNIST handwritten digits CSV dataset can be found [here](https://www.kaggle.
 # Load data (you need to download the relevant dataset as a CSV, e.g. CIFAR-10, MNIST digits, or Fashion-MNIST)
 data = pd.read_csv("path_to_data", nrows=cutoff*2)
 ```
-with the download path of the CSV file containing the data on your computer. A ready-made "neural" instance named "nn" is available in the "Train a Network" section:
+with the download path of the CSV file containing the data on your computer. A ready-made `neural` instance named `nn` is available in the "Train a Network" section:
 ```python
 # Select parameters for gradient descent
 learning_rate_ = 0.001
