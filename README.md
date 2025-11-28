@@ -34,7 +34,7 @@ epsilon_ = 10**(-8)
 layer_dimensions = [xxx.shape[1], 128, 128, 128, 128, yyy.shape[1]]
 activation_functions = ['leaky relu', 'leaky relu', 'leaky relu', 'leaky relu', 'softmax']
 
-# Initialize neural network without
+# Initialize neural network
 nn = neural(layers=layer_dimensions, activation_function_list=activation_functions, he_uniform=True)
 ```
 To train the network, just run the cell below in the notebook
