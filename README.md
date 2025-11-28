@@ -42,5 +42,9 @@ To train the network, just run the cell below in the notebook
 # Run gradient descent on the network
 nn.gradient_descent(learning_rate_, minibatch_size_, epochs_, optimizer_, inputs_, true_outputs_, loss_, lambd_, cv_input_layer = cv_input_layer_, cv_true_labels = cv_true_labels_, beta_1 = beta_1_, beta_2 = beta_2_, epsilon = epsilon_)
 ```
-## Deep Reinforcement Learning
+
+
+
+
+## Python Deep Reinforcement Learning
 I implemented an Advantage Actor-Critic (A2C) reinforcement learning agent from scratch integrated with an Intrinsic Curiosity Module (ICM) in Python using Gymnasium and PyTorch. This implementation can be found in the file named `RL A2C.py`.
