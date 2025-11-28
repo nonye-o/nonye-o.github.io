@@ -4,4 +4,4 @@ layout: page
 ---
 This is a markdown file. Add projects here.
 # Python Neural Network from Scratch
-[Notebook]("/github NumPy Neural Network From Scratch.ipynb")
+[Notebook](https://github.com/nonye-o/nonye-o.github.io/blob/master/github%20NumPy%20Neural%20Network%20From%20Scratch.ipynb)
