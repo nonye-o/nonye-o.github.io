@@ -23,7 +23,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:chukwunonyelumokoma@outlook.com"}
-  - {title: Github, icon: github, url: "https://github.com/nonye-o/nonye-o.github.io"}
+  - {title: Github, icon: github, url: "https://github.com/nonye-o/nonye-o-projects"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/nonye-o-3112b6324/"}
 
 comments:
