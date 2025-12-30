@@ -4,7 +4,7 @@ title: "About"
 ---
 # Nonye Okoma
 I graduated with an MSci in Mathematics in July 2024 from Lancaster University.
-- Email:[chukwunonyelumokoma@outlook.com](mailto:chukwunonyelumokoma@outlook.com)
+- [Email](mailto:chukwunonyelumokoma@outlook.com)
 - [CV](Gregory_Okoma_CV.pdf)
 - [GitHub](https://github.com/nonye-o)
 - [LinkedIn](https://www.linkedin.com/in/nonye-o-3112b6324/)
